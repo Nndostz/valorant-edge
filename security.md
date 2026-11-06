@@ -316,6 +316,6 @@ opening a support request.
 
 ---
 
-*valorant-edge · Updated 2026-11-05 · Shared under the MIT License*
+*valorant-edge · Updated 2026-11-06 · Shared under the MIT License*
 
-<!-- updated 2026-11-05 -->
+<!-- updated 2026-11-06 -->
